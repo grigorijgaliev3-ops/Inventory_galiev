@@ -27,3 +27,6 @@ Getting Started
 ---------------
 
 1. Download and run the app.
+
+
+<img width="632" height="926" alt="image" src="https://github.com/user-attachments/assets/24898c58-802d-46c9-8113-06d50e23bc28" />
